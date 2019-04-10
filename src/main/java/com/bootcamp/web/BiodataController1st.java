@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import com.bootcamp.model.Biodata;
 
 @Controller
-@RequestMapping("/biodata")
+
 public class BiodataController1st {
 	
 	@RequestMapping("biodata")

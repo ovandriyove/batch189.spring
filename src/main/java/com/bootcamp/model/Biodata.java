@@ -13,7 +13,7 @@ import javax.persistence.TemporalType;
 import com.fasterxml.jackson.annotation.JsonFormat;
 
 @Entity
-@Table(name="biodata_mahasiswa")
+@Table(name="tblBiodata")
 public class Biodata implements Serializable {
 	
 	@Id

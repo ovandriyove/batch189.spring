@@ -2,11 +2,10 @@
 <head>
 <meta charset="ISO-8859-1">
 <title>Biodata</title>
-<link rel="stylesheet" type="text/css" href="../assets/css/style.css">
-  	<link rel="stylesheet" href="../assets/css/bootstrap.min.css">
-  	<script src="../assets/js/jquery.min.js"></script>
-  	<script src="../assets/js/popper.min.js"></script>
-  	<script src="../assets/js/bootstrap.min.js"></script>
+  	<link rel="stylesheet" href="${pageContext.request.contextPath}/assets/css/bootstrap.min.css">
+  	<script src="${pageContext.request.contextPath}/assets/js/jquery.min.js"></script>
+  	<script src="${pageContext.request.contextPath}/assets/js/popper.min.js"></script>
+  	<script src="${pageContext.request.contextPath}/assets/js/bootstrap.min.js"></script>
 
 </head>
 <body class="bg-light">
